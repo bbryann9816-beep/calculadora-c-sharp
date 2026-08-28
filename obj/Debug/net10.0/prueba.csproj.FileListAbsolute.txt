@@ -12,3 +12,4 @@ C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\refint\prueb
 C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.pdb
 C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.genruntimeconfig.cache
 C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\ref\prueba.dll
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.sourcelink.json
