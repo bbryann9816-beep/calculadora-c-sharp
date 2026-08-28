@@ -1,0 +1,14 @@
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\bin\Debug\net10.0\prueba.exe
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\bin\Debug\net10.0\prueba.deps.json
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\bin\Debug\net10.0\prueba.runtimeconfig.json
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\bin\Debug\net10.0\prueba.dll
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\bin\Debug\net10.0\prueba.pdb
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.AssemblyInfoInputs.cache
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.AssemblyInfo.cs
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.dll
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\refint\prueba.dll
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.pdb
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\prueba.genruntimeconfig.cache
+C:\Users\braya\OneDrive\Documents\c# sharp\prueba\obj\Debug\net10.0\ref\prueba.dll
